@@ -1,0 +1,12 @@
+{
+    "api":{
+        "port":4000
+    },
+    "postgres": {
+        "port":5432,
+        "user":"maks",
+        "password":"123456",
+        "base":"maks",
+        "sslmode":"disable"
+    }
+}
